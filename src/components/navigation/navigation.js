@@ -10,7 +10,7 @@ export default class NavigationComponent extends Component {
           Home
         </NavLink>
 
-        <NavLink to="/about-me" activeClassName="nav-link-active">
+        <NavLink to="/about" activeClassName="nav-link-active">
           About
         </NavLink>
 
